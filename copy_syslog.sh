@@ -3,6 +3,7 @@
 # Author:                       Michael Plaskett    
 # Date of latest revision:      07/25/2023
 # Purpose:                     To make an system log file
+# Resource: 
 
 # Define the source and destination filenames
 source_file="/var/log/syslog"
