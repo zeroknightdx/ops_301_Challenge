@@ -1,8 +1,8 @@
-#!/bin/bash
-# Script Name:                  
+#!/bin/bash         
+# Script Name:                  Date and Time
 # Author:                       Michael Plaskett    
 # Date of latest revision:      07/25/2023
-# Purpose:                     
+# Purpose:                     To make an system log file
 
 # Define the source and destination filenames
 source_file="/var/log/syslog"
