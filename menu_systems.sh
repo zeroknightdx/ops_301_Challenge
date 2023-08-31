@@ -3,7 +3,7 @@
 # Author:                       Michael Owen Plaskett    
 # Date of latest revision:      08/31/2023
 # Purpose:      To show process of react base on different object state
-# Resource: 
+# Resource:  Hexx
 
 while true; do
     clear
@@ -23,6 +23,7 @@ while true; do
             ;;
         3)
             ip a
+
             ;;
         4)
             echo "Exiting..."
