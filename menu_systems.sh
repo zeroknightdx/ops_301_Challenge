@@ -19,10 +19,10 @@ while true; do
             echo "Hello world!"
             ;;
         2)
-            ping -c 4 127.0.0.1
+            ping -c 4 192.168.0.97
             ;;
         3)
-            ifconfig
+            ip a
             ;;
         4)
             echo "Exiting..."
