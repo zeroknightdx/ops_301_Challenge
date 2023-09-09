@@ -2,7 +2,7 @@
 # Author:                       Michael Plaskett    
 # Date of latest revision:      09/08/23
 # Purpose:          TO grasp the fundamental of generating log files or working with CSV or JSON data files
-# Resource: 
+# Resource:        Challenge10.png
 
 # Create a new .txt file and append three lines
 with open('example.txt', 'w') as file:
