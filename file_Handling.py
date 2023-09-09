@@ -6,9 +6,9 @@
 
 # Create a new .txt file and append three lines
 with open('example.txt', 'w') as file:
-    file.write("This is the first line.\n")
-    file.write("This is the second line.\n")
-    file.write("This is the third line.\n")
+    file.write("i like ice cream.\n")
+    file.write("i like ice cream.\n")
+    file.write("i like ice cream.\n")
 
 # Open the file again to read the first line and print it
 with open('example.txt', 'r') as file:
