@@ -1,7 +1,7 @@
 #!/bin/bash         
 # Script Name:                  Date and Time
 # Author:                       Michael Plaskett    
-# Date of latest revision:      07/25/2023
+# Date of latest revision:      08/29/2023
 # Purpose:                     To make an system log file
 # Resource: 
 
