@@ -2,8 +2,7 @@
 # Author:                       Michael Plaskett    
 # Date of latest revision:      09/11/23
 # Purpose:          TO grasp the fundamental of Psutil
-# Resource:        Challenge10.png
-
+# Resource:        
 import psutil
 
 # Get CPU times
