@@ -1,3 +1,3 @@
-# ops_301_Challenge
+# Networking and Systems Administration Challenges
 
-Wellcome to my ops 301 Networking and Systems Administration Challenges
+Wellcome to my ops Networking and Systems Administration Challenges
